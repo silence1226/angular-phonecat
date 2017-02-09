@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularJS Phone Catalog Tutorial Application
 
 
@@ -277,3 +278,7 @@ For more information on AngularJS, please check out https://angularjs.org/.
 [node]: https://nodejs.org/
 [protractor]: http://www.protractortest.org/
 [selenium]: http://docs.seleniumhq.org/
+=======
+# angular-phonecat
+Angular-phonecat
+>>>>>>> ca01f4fc119df054fabca3ffe72de8524eaec332
